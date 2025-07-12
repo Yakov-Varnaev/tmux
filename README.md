@@ -9,6 +9,15 @@ git clone https://github.com/Yakov-Varnaev/tmux.git "${XDG_CONFIG_HOME:-$HOME/.c
 
 Just google: "How to install Linux?"
 
+## First run
+
+After you've cloned the repo. Install all the dependencies:
+
+https://github.com/catppuccin/tmux - follow the docs
+
+```<prefix> + I```
+
+
 
 # How to reset tmux
 
